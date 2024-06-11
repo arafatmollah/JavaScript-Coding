@@ -13,3 +13,8 @@ else if(guessNumber===randomNum){
 else{
     console.log('Invalid');
 }
+
+
+//
+let loveCalc = Math.floor(Math.random()*100+1);
+console.log(loveCalc)
