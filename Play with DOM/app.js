@@ -1,6 +1,6 @@
 
 let newbtn = document.querySelector('.btn');
-let h1 = document.querySelector('.head')
+let h1 = document.querySelectorAll('.head')
 
  newbtn.addEventListener('click', function(){
     
